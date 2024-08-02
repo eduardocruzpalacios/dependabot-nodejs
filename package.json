@@ -10,7 +10,7 @@
   ],
   "dependencies": {
     "moment": "1.0.0",
-    "async": "1.0.0",
+    "async": "3.2.5",
     "lodash": "1.0.0"
   },
   "author": "Eduardo de la Cruz Palacios",
